@@ -1,0 +1,26 @@
+{
+  "name": "trusty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "initialize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keegoo/trusty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keegoo/trusty/issues"
+  },
+  "homepage": "https://github.com/keegoo/trusty#readme",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
